@@ -1,0 +1,18 @@
+package zadanie07;
+
+public class Person {
+
+    String name;
+
+    public Person(String name) {
+        this.name = name;
+    }
+
+    public Person(Person other) {
+        this(other.name);
+    }
+
+    public void introduceYourself() {
+        System.out.println("Cześć, mam na imię " + name);
+    }
+}
