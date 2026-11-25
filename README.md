@@ -10,6 +10,7 @@ Repozytorium z rozwiązaniami zadań laboratoryjnych.
 | `lab_04/` | Dziedziczenie |
 | `lab_05/` | Polimorfizm |
 | `lab_06/` | Klasy abstrakcyjne, interfejsy i kompozycja |
+| `lab_07/` | Klasy zagnieżdżone, wewnętrzne, lokalne i anonimowe + powtórzenie przed Kolokwium I |
 
 Każde laboratorium ma katalog `src/` z osobnym pakietem dla każdego zadania (`zadanie01`, `zadanie02`, …, `dodatkowe`) oraz plik `README.md` z odpowiedziami na pytania teoretyczne.
 
